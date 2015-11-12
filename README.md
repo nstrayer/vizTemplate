@@ -2,6 +2,12 @@
 
 I spend way to much time setting up the actual environment for each visualization I make. 
 
+## Get it running: 
+(From the terminal)
+```{sh}
+python -m SimpleHTTPServer
+```
+
 ## Includes: 
 - D3
 - Bootstrap
